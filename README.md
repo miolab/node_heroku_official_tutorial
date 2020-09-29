@@ -1,7 +1,7 @@
 # Node.js on Heroku Official Tutorial
 
-- Node.js on Herokuの公式チュートリアルを、とおしで進めていきます
+- __Heroku__ の公式チュートリアル [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true) を、とおしで進めていきます
 
-- 内容を一部アレンジ します
+- __内容を一部アレンジ__ します
 
-  - 開発環境は Docker とします
+  - __開発環境は Docker__ とします
